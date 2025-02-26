@@ -4,6 +4,6 @@ m = input("insira o multiplicador:")
 
 while(a<=10):
     resultado = a*int(m)
-    print(str(a)+"X"+str(m)+"="+str(resultado))
+    print(str(m)+"X"+str(a)+"="+str(resultado))
     a+=1
     ##loop principal
