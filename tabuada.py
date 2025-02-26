@@ -7,3 +7,4 @@ while(a<=10):
     print(str(m)+"X"+str(a)+"="+str(resultado))
     a+=1
     ##loop principal
+4
