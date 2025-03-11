@@ -1,15 +1,16 @@
-op = input ("entre com a operacao desejada")
-if ((op != "soma") and (op != "sub")and (op != "div") and (op != "mult")):
-    print ("erro : operação ñ reconhecida","/n")
+op=input("Entre com A para Soma, S para subtraçao, D para divisão e M para Multiplicação")
+if (op!="A" and op!="S" and op!="D" and op!="M"):
+    print("Erro: operaçao não reconhecida")
 else:
-    opr1 = ("entre c/ o 1º operador")
-    opr2 = ("entre c/ o 2º operador")
-if(op == "soma"):
-    r = int(opr1) + int (opr2)
-elif (op == "sub"):
-    r = int (opr1) - int (opr2)
-elif(op1 == "div"):
-    r = int (opr1) / int (opr2)
-elif(opr == "mult"):
-    r = int (opr1) * int (opr2)
-print ("mostre o resultado" + str (r))
+    opr1=int(input("entre com o primeiro valor:"))
+    opr2=int(input("entre com o segundo valor:"))
+    if (op=="A"):
+        r=opr1+opr2
+    elif (op=="S"):
+        r=opr1-opr2
+    elif (op=="D"):
+        r=opr1/opr2  
+    elif (op=="M"):
+        r=opr1*opr2  
+    print ("o resultado da operação é:" + str(r)
+    
