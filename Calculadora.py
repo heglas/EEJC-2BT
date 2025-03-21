@@ -1,15 +1,16 @@
-op = input("entre com a operação: (SOMA, SUBTRAÇÃO, DIVISÃO ou MULTIPLICAÇÃO)")
-if (op!="SOMA"and op!="SUBTRACAO" and op!="SUBTRAÇÃO" and op!="DIVISÃO" and op!="MULTIPLICAÇÃO"):
-    print("ERRO: operação não reconhecida","\n")
+op=input("Entre com A para Soma, S para subtraçao, D para divisão e M para Multiplicação")
+if (op!="A" and op!="S" and op!="D" and op!="M"):
+    print("Erro: operaçao não reconhecida")
 else:
-    opr1 = int(input("entre com o primeiro valor:"))
-    opr2 = int(input("entre com o segundo valor:"))
-    if(op=="SOMA"):
-        result = opr1 + opr2
-    elif(op=="SUBTRAÇÃO"):
-        result = opr1 - opr2
-    elif(op=="DIVISÃO"):
-         result = opr1 / opr2
-    elif(op=="MULTIPLICAÇÃO"):
-        result = opr1 * opr2
-    print (result,"\n")
+    opr1=int(input("entre com o primeiro valor:"))
+    opr2=int(input("entre com o segundo valor:"))
+    if (op=="A"):
+        r=opr1+opr2
+    elif (op=="S"):
+        r=opr1-opr2
+    elif (op=="D"):
+        r=opr1/opr2  
+    elif (op=="M"):
+        r=opr1*opr2  
+    print ("o resultado da operação é:" + str(r))
+    
