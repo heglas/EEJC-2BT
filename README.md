@@ -2,7 +2,7 @@
 
 Semana 6
 
-*ICD*
+#INTRODUÇÃO A CIENCIA DE DADOS, FERRAMENTAS E JARGOES DA AREA (ICD)
 
 17/03/2025
 
@@ -18,7 +18,7 @@ https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B1S6A2.pdf
 Foram abordados nessa semana os termos em inglês relacionados com machine learning, utilizando os exemplos mais conhecidos.
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B1S6A3.pdf
 
-*PACD*
+#PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 5° Aula
 Foi revisado os tipos de dados básicos utilizados na linguagem python e abordamos detalhes do tipo de dados flutuante, o float, e as listas de dados, motivei os alunos com a codificação de programinhas simples que visavam elucidar duvidas relacionadas a listas.
@@ -30,7 +30,7 @@ https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B1S5A1.pdf
 
 18/03/2025
 
-*ICD*
+#PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 6° Aula
 Revisamos o conceito de fila, um tipo de dado muito utilizado no python e conhecemos seus principais métodos.
@@ -39,6 +39,8 @@ https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B1S5A2.pdf
 7° Aula
 Revisamos o conceito de fila, um tipo de dado muito utilizado no python e conhecemos seus principais métodos, em seguida iniciamos uma serie de atividades praticas para edificar e dar sentido ao conhecimento exposto.
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B1S5A3.pdf
+
+#LOGICA, ALGORITMO E E OPERAÇÃO DE PLANILHA ELETRONICA (LAOP)
 
 1° Aula
 Foram revisados conceitos referente a planilhas eletrônicas, nessa semana optei por mostrar na pratica a planilha eletrônica do google, para traçar paralelos entre os diferentes aplicativos.
