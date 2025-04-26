@@ -52,3 +52,26 @@ Foram revisados conceitos referente a planilhas eletrônicas, expliquei as difer
 3° Aula
 Foram revisados conceitos referente a planilhas eletrônicas, nessa semana optei por mostrar na pratica a planilha eletrônica do google, para traçar paralelos entre os diferentes aplicativos e dei um tempo para executar a atividade da semana 6 aula 2, as planilhas devem ser enviadas através do AVA.
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B1S6A2.pdf
+
+SEMANA 9
+
+27/04/2025
+
+#INTRODUÇÃO A CIENCIA DE DADOS, FERRAMENTAS E JARGOES DA AREA (ICD)
+
+2° Aula
+EM DESENVOLVIMENTO
+
+3° Aula
+EM DESENVOLVIMENTO
+
+4° Aula
+EM DESENVOLVIMENTO
+
+#PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
+
+5° Aula
+EM DESENVOLVIMENTO
+
+6° Aula
+EM DESENVOLVIMENTO
