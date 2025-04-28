@@ -129,6 +129,7 @@ https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17859
 #PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 5° Aula
+Entrega de livros didáticos solicitada pela coordenação
 No intuito de reforçar e seguir a continuidade da materia do segundo bimestre retomamos a aula 2 de ICD, Falamos sobre: Análise de sentimento, Sistemas de Recomendação (Netflix, Amazon), Conceito de Machine Learning.
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S9A2.pdf
 
