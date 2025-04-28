@@ -137,3 +137,32 @@ https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S9A2.pdf
 6° Aula
 Tiramos as duvidas dos procedimentos de REGISTRO, uma vez que foi um problema recorrente no primeiro bimestre
 [SEMANA 9 - AULA 2 - REGISTRO](https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17863)
+
+29/04/2025
+
+#LOGICA, ALGORITMO E E OPERAÇÃO DE PLANILHA ELETRONICA (LAOP)
+
+1ª Aula
+[PLANEJAMENTO] 
+Iremos abordar Loops "for", listas, strings e automação de tarefas com Python
+
+2ª Aula
+[PLANEJAMENTO]
+Aplicação prática de bibliotecas Python (NumPy e pandas).
+Uso de loops e condicionais para automação simples de tarefas (renomeação de arquivos).
+Compreensão dos domínios de uso de Python (Análise de Dados, Scripting, Jogos)
+
+3ª Aula
+[PLANEJAMENTO]
+Tempo exta para realizaçãod a atividade pratica e sanar duvidas.
+
+#PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
+
+6° Aula
+[PLANEJAMENTO] Desenvolve a capacidade de analisar situações e estruturar decisões usando lógica de
+programação e pseudocódigo. Abordamos também a diferença entre SE/ENTÃO e SE/ENTÃO/SENÃO, e ainda quando usar ESCOLHA/CASO.
+
+7° Aula
+[PLANEJAMENTO]
+[QUIZ]https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17846
+[REGISTRO]https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17848
