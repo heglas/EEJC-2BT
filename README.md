@@ -119,15 +119,20 @@ SEMANA 9
 Revisão dos ACORDOS DE SALA, e regras de avaliacoes para o segundo bimestre, alem de conversa sobre a importancia das atividades avaliativas do AVA.
 
 3° Aula
-EM DESENVOLVIMENTO
+Abordamos o que é Ciência de Dados (interdisciplinaridade, métodos científicos, algoritmos). Conhecemos exemplos da Starbucks, Marriott e Uber .
+(https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S9A1.pdf)
 
 4° Aula
-EM DESENVOLVIMENTO
+Após a aula 1, acessamos e tiramos duvidas referentes a execução do Quiz
+https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17859
 
 #PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 5° Aula
-EM DESENVOLVIMENTO
+No intuito de reforçar e seguir a continuidade da materia do segundo bimestre retomamos a aula 2 de ICD, Falamos sobre: Análise de sentimento, Sistemas de Recomendação (Netflix, Amazon), Conceito de Machine Learning.
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S9A2.pdf
+
 
 6° Aula
-EM DESENVOLVIMENTO
+Tiramos as duvidas dos procedimentos de REGISTRO, uma vez que foi um problema recorrente no primeiro bimestre
+[EM DESENVOLVIMENTO](https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17863)
