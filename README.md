@@ -116,7 +116,7 @@ SEMANA 9
 #INTRODUÇÃO A CIENCIA DE DADOS, FERRAMENTAS E JARGOES DA AREA (ICD)
 
 2° Aula
-EM DESENVOLVIMENTO
+Revisão dos ACORDOS DE SALA, e regras de avaliacoes para o segundo bimestre, alem de conversa sobre a importancia das atividades avaliativas do AVA.
 
 3° Aula
 EM DESENVOLVIMENTO
