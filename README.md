@@ -135,4 +135,4 @@ https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S9A2.pdf
 
 6° Aula
 Tiramos as duvidas dos procedimentos de REGISTRO, uma vez que foi um problema recorrente no primeiro bimestre
-[EM DESENVOLVIMENTO](https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17863)
+[SEMANA 9 - AULA 2 - REGISTRO](https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17863)
