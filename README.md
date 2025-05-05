@@ -143,26 +143,88 @@ Tiramos as duvidas dos procedimentos de REGISTRO, uma vez que foi um problema re
 #LOGICA, ALGORITMO E E OPERAÇÃO DE PLANILHA ELETRONICA (LAOP)
 
 1ª Aula
-[PLANEJAMENTO] 
+[EXECUTADO] 
 Iremos abordar Loops "for", listas, strings e automação de tarefas com Python
 
 2ª Aula
-[PLANEJAMENTO]
+[EXECUTADO]
 Aplicação prática de bibliotecas Python (NumPy e pandas).
 Uso de loops e condicionais para automação simples de tarefas (renomeação de arquivos).
 Compreensão dos domínios de uso de Python (Análise de Dados, Scripting, Jogos)
 
 3ª Aula
-[PLANEJAMENTO]
-Tempo exta para realizaçãod a atividade pratica e sanar duvidas.
+[EXECUTADO]
+Tempo exta para realização da atividade pratica e sanar duvidas.
 
 #PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 6° Aula
-[PLANEJAMENTO] Desenvolve a capacidade de analisar situações e estruturar decisões usando lógica de
+[REMANEJADO_S10] Desenvolve a capacidade de analisar situações e estruturar decisões usando lógica de
 programação e pseudocódigo. Abordamos também a diferença entre SE/ENTÃO e SE/ENTÃO/SENÃO, e ainda quando usar ESCOLHA/CASO.
 
 7° Aula
-[PLANEJAMENTO]
+[REMANEJADO_S10]
 [QUIZ]https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17846
 [REGISTRO]https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17848
+
+SEMANA 10
+
+05/05/2025
+
+#INTRODUÇÃO A CIENCIA DE DADOS, FERRAMENTAS E JARGOES DA AREA (ICD)
+
+2° Aula
+[PLANEJAMENTO]
+Apresentação de novos termos tecnicos em inglês.
+[B2S10A1]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S10A1.pdf
+[B2S10A1_QUIZ]https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17879
+
+3° Aula
+[PLANEJAMENTO]
+Apresentação de Tecnica de mapa mental
+[B2S10A2]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S10A2.pdf
+[VIDEO]https://www.youtube.com/watch?v=m1qW0wPJV1M
+[ARTIGO_1]https://medium.com/@nazimalilive/the-future-of-artificial-intelligence-what-to-expect-in-the-next-decade-ca5dda92e1cf
+[ARTIGO_2]https://medium.com/@marketing_89629/what-is-the-future-of-ai-expertpredictions-583b541c5b97
+
+4° Aula
+[PLANEJAMENTO]
+[B2S10A2_REGISTRO]https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17882
+
+#PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
+
+5° Aula
+- Continuamos a explorar a natureza do loop for, com exemplos e uma atividade pratica. 
+[B2S10A1]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S10A1.pdf
+[B2S10A1_REGISTRO]https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17503
+
+
+6° Aula
+[PLANEJAMENTO]
+Conceito-chave de função, utilizar partes de codigo para executar a partir de um programa principal.
+[B2S10A2]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S10A2.pdf
+[B2S10A2_QUIZ]https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17505
+Tempo para atividade pratica
+[B2S10A3]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S10A3.pdf
+[B2S10A4]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S10A4.pdf
+
+06/05/2025
+
+#LOGICA, ALGORITMO E E OPERAÇÃO DE PLANILHA ELETRONICA (LAOP)
+
+1ª Aula
+[PLANEJAMENTO]
+
+2ª Aula
+[PLANEJAMENTO]
+
+3ª Aula
+[PLANEJAMENTO]
+
+#PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
+
+6° Aula
+[PLANEJAMENTO]
+
+7° Aula
+[PLANEJAMENTO]
