@@ -194,7 +194,7 @@ Apresentação de Tecnica de mapa mental
 #PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 5° Aula
-- Continuamos a explorar a natureza do loop for, com exemplos e uma atividade pratica. 
+Continuamos a explorar a natureza do loop for, com exemplos e uma atividade pratica. 
 [B2S10A1]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S10A1.pdf
 [B2S10A1_REGISTRO]https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17503
 
