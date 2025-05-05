@@ -174,11 +174,11 @@ SEMANA 10
 #INTRODUÇÃO A CIENCIA DE DADOS, FERRAMENTAS E JARGOES DA AREA (ICD)
 
 2° Aula
-[PLANEJAMENTO]
+[EXECUTADO]
 Apresentação de novos termos tecnicos em inglês.
 [B2S10A1]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S10A1.pdf
 [VIDEO]https://www.youtube.com/watch?v=bAyrObl7TYE
-[B2S10A1_QUIZ]https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17879
+[B2S10A1_QUIZ REMANEJADO - falta de equipamento - prova de outra sala]https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17879
 
 3° Aula
 [PLANEJAMENTO]
@@ -189,23 +189,23 @@ Apresentação de Tecnica de mapa mental
 [ARTIGO_2]https://medium.com/@marketing_89629/what-is-the-future-of-ai-expertpredictions-583b541c5b97
 
 4° Aula
-[PLANEJAMENTO]
+[REMANEJADO - falta de equipamento - prova de outra sala]
 [B2S10A2_REGISTRO]https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17882
 
 #PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 5° Aula
-[PLANEJAMENTO]
+[EXECUTADO]
 Continuamos a explorar a natureza do loop for, com exemplos e uma atividade pratica. 
 [B2S10A1]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S10A1.pdf
-[B2S10A1_REGISTRO]https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17503
+[B2S10A1_REGISTRO REMANEJADO - falta de equipamento - prova de outra sala]https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17503
 
 
 6° Aula
-[PLANEJAMENTO]
+[EXECUTADO]
 Conceito-chave de função, utilizar partes de codigo para executar a partir de um programa principal.
 [B2S10A2]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S10A2.pdf
-[B2S10A2_QUIZ]https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17505
+[B2S10A2_QUIZ REMANEJADO - falta de equipamento - prova de outra sala]https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17505
 Tempo para atividade pratica
 [B2S10A3]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S10A3.pdf
 [B2S10A4]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S10A4.pdf
@@ -216,17 +216,31 @@ Tempo para atividade pratica
 
 1ª Aula
 [PLANEJAMENTO]
+Revisão de estruturas de controle IF e CASE
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S10A1.pdf
+QUIZ AVALIATIVO https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17855
+
 
 2ª Aula
 [PLANEJAMENTO]
+Operadores Lógicos, tabela da verdade e operadores booleanos
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S10A2.pdf
+Registro Avaliativo
+https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17857
+
 
 3ª Aula
 [PLANEJAMENTO]
+Tempo para execuçao de exercicios Quizes e Registros
 
 #PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 6° Aula
 [PLANEJAMENTO]
+Tempo para execuçao de exercicios Lista- slide 11 e 12
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S10A3.pdf
 
 7° Aula
 [PLANEJAMENTO]
+Tempo para execuçao de exercicios Lista- slide 4 a 7
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S10A4.pdf
