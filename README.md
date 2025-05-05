@@ -177,6 +177,7 @@ SEMANA 10
 [PLANEJAMENTO]
 Apresentação de novos termos tecnicos em inglês.
 [B2S10A1]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S10A1.pdf
+[VIDEO]https://www.youtube.com/watch?v=bAyrObl7TYE
 [B2S10A1_QUIZ]https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17879
 
 3° Aula
