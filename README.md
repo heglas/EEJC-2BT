@@ -274,39 +274,41 @@ programação e pseudocódigo. Abordamos também a diferença entre SE/ENTÃO e 
 [QUIZ]https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17846
 [REGISTRO]https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17848
 
-SEMANA 10
+SEMANA 11
 
-05/05/2025
+12/05/2025
 
 #INTRODUÇÃO A CIENCIA DE DADOS, FERRAMENTAS E JARGOES DA AREA (ICD)
 
 2° Aula
 [EXECUTADO]
-foi abordada a revisão de sistemas operacionais, e apresentados novos conceitos e funcionamento da paginação (best-fit, worst-fit e first-fit), tipos de sistemas arquivos e funcionanmento geral doSistema Operacional.
+Foi abordada a revisão de sistemas operacionais, e apresentados novos conceitos e funcionamento da paginação (best-fit, worst-fit e first-fit), tipos de sistemas arquivos e funcionamento geral do Sistema Operacional.
 [B2S11A1]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S11A1.pdf
-[B2S10A1_QUIZ REMANEJADO - falta de equipamento - sem equipamento disponivel]
+[B2S10A1_QUIZ REMANEJADO - falta de equipamento - sem equipamento disponivel] https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17897
 
 3° Aula
-[PLANEJAMENTO]
-Apresentação de Tecnica de mapa mental
-[B2S10A2]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S10A2.pdf
-[VIDEO]https://www.youtube.com/watch?v=m1qW0wPJV1M
-[ARTIGO_1]https://medium.com/@nazimalilive/the-future-of-artificial-intelligence-what-to-expect-in-the-next-decade-ca5dda92e1cf
-[ARTIGO_2]https://medium.com/@marketing_89629/what-is-the-future-of-ai-expertpredictions-583b541c5b97
+[EXECUTADO]
+Continuamos abordando os novos conceitos e funcionamento da paginação (best-fit, worst-fit e first-fit), tipos de sistemas arquivos e funcionamento geral do Sistema Operacional.
+[B2S11A2]https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S11A2.pdf
+[B2S10A1_REGISTRO REMANEJADO - falta de equipamento - sem equipamento disponivel] https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17900
 
 4° Aula
-[REMANEJADO - falta de equipamento - prova de outra sala]
-[B2S10A2_REGISTRO]https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17882
+[EXECUTADO]
+Revisão e tira duvidas dos exercicios em lista de PACD - S10A3 - slide 11 e 12
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S10A3.pdf
 
 #PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 5° Aula
-[PLANEJAMENTO]
-
-
+[EXECUTADO]
+Revisão e tira duvidas dos exercicios em lista de PACD  S10A4 - slide 4 a 7
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S10A4.pdf
 
 6° Aula
-[PLANEJAMENTO]
+[EXECUTADO]
+Abordamos de forma pratica a programação utilizando a função enumerate com varios objetos iteraveis, em lousa e com ajuda da televisão, porém não conseguimos executar individualmente os testes.
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S11A1.pdf
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S11A2.pdf
 
 
 13/05/2025
@@ -315,24 +317,35 @@ Apresentação de Tecnica de mapa mental
 
 1ª Aula
 [PLANEJAMENTO]
-
+Retomaremos as operações de planilhas eletronicas e criaremos graficos de linhas e barras.
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S10A1.pdf
+[quiz]https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17855
 
 
 2ª Aula
 [PLANEJAMENTO]
-
+Estruturas de controle em algoritmos e condições utilizando operadores booleanos.
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S10A2.pdf
+[registro] https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17857
 
 
 3ª Aula
 [PLANEJAMENTO]
+Execução de um exercicio do slide 4, onde desenvolveremos alguns algoritimos didaticos.
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S10A3.pdf
 
 
 #PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 6° Aula
 [PLANEJAMENTO]
-
+Execução das listas de exercicios das atividades praticas e quizes e registros da semana 11.
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S11A3.pdf
+[quiz] https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17513
 
 7° Aula
 [PLANEJAMENTO]
+Execução das listas de exercicios das atividades praticas e quizes e registros da semana 11.
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S11A4.pdf
+[registro] https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17516
 
