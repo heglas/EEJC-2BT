@@ -316,21 +316,21 @@ https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S11A2.pdf
 #LOGICA, ALGORITMO E E OPERAÇÃO DE PLANILHA ELETRONICA (LAOP)
 
 1ª Aula
-[PLANEJAMENTO]
+[EXECUTADO]
 Retomaremos as operações de planilhas eletronicas e criaremos graficos de linhas e barras.
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S10A1.pdf
 [quiz]https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17855
 
 
 2ª Aula
-[PLANEJAMENTO]
+[REMANEJADO]
 Estruturas de controle em algoritmos e condições utilizando operadores booleanos.
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S10A2.pdf
 [registro] https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17857
 
 
 3ª Aula
-[PLANEJAMENTO]
+[EXECUTADO]
 Execução de um exercicio do slide 4, onde desenvolveremos alguns algoritimos didaticos.
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S10A3.pdf
 
@@ -338,13 +338,13 @@ https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S10A3.pdf
 #PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 6° Aula
-[PLANEJAMENTO]
+[EXECUTADO]
 Execução das listas de exercicios das atividades praticas e quizes e registros da semana 11.
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S11A3.pdf
 [quiz] https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17513
 
 7° Aula
-[PLANEJAMENTO]
+[EXECUTADO]
 Execução das listas de exercicios das atividades praticas e quizes e registros da semana 11.
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S11A4.pdf
 [registro] https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17516
