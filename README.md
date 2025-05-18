@@ -349,3 +349,65 @@ Execução das listas de exercicios das atividades praticas e quizes e registros
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C2B2S11A4.pdf
 [registro] https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17516
 
+SEMANA 12
+
+19/05/2025
+
+#INTRODUÇÃO A CIENCIA DE DADOS, FERRAMENTAS E JARGOES DA AREA (ICD)
+
+Pré-Aula [7:00]
+*Verificar disponibilidade de equipamentos e acesso as plataformas, alinhar com a direção atribuição PROATI na TERÇA-FEIRA
+
+2° Aula - [7:50]
+[PLANEJADO] Revisão de conceitos fundamentais do controle de versão 
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S12A1.pdf
+[Quiz] https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17503
+
+3° Aula
+[PLANEJADO] Procedimentos de instalação do GIT
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S12A2.pdf
+[REGISTRO] https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17918
+
+4° Aula
+[PLANEJADO] Instalação pratica do sistema de controle de versão conforme discutido em aula.
+[Seminário] Tópico alocado para semana de seminário
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S12A3.pdf
+
+
+#PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
+
+5° Aula
+[PLANEJADO]
+
+
+6° Aula
+[PLANEJADO]
+
+
+20/05/2025
+
+#LOGICA, ALGORITMO E E OPERAÇÃO DE PLANILHA ELETRONICA (LAOP)
+
+1ª Aula
+[PLANEJADO]
+
+
+
+2ª Aula
+[PLANEJADO]
+
+
+
+3ª Aula
+[PLANEJADO]
+
+
+#PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
+
+6° Aula
+[PLANEJADO]
+
+
+7° Aula
+[PLANEJADO]
+
