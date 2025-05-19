@@ -1,0 +1,9 @@
+1. contador <- 10
+2. PARA t DE contador ATÉ 1 PASSO -1 FAÇA
+3.   Escrever "Tempo restante: ", t
+4. FIM PARA
+5. PARA t DE contador ATÉ 0 PASSO -1 FAÇA
+6.   SE t == 0 ENTÃO
+7.     Escrever "Ignição!"
+8.   SENÃO
+9.     Escrever "Contagem: ", t

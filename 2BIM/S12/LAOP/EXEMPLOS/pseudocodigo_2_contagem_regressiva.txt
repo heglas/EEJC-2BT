@@ -1,0 +1,5 @@
+1. contador <- 5
+2. ENQUANTO contador >= 1 FAÇA
+3.   Escrever "Contagem: ", contador
+4.   contador <- contador - 1
+5. FIM ENQUANTO

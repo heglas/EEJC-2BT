@@ -1,0 +1,7 @@
+1. senhaCorreta <- "1234"
+2. senhaDigitada <- ""
+3. ENQUANTO senhaDigitada <> senhaCorreta FAÇA
+4.   Escrever "Digite a senha:"
+5.   Ler senhaDigitada
+6. FIM ENQUANTO
+7. Escrever "Acesso concedido"

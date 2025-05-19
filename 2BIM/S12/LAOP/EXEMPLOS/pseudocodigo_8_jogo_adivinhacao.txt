@@ -1,0 +1,14 @@
+1. numero_secreto <- GerarNumeroAleatorioEntre1e10()
+2. tentativas <- 0
+3. acertou <- Falso
+4. ENQUANTO não acertou FAÇA
+5.   Ler tentativa
+6.   tentativas <- tentativas + 1
+7.   SE tentativa < numero_secreto ENTÃO
+8.     Escrever "Muito baixo!"
+9.   SENÃO SE tentativa > numero_secreto ENTÃO
+10.    Escrever "Muito alto!"
+11.  SENÃO
+12.    Escrever "Correto! Tentativas: ", tentativas
+13.    acertou <- Verdadeiro
+14. FIM ENQUANTO

@@ -381,7 +381,7 @@ Introdução ao tipo de dado Dicionário
 
 6° Aula
 [PLANEJADO]
-Exercicios sobre tipod e Dado Dicionário
+Exercicios sobre tipo de Dado Dicionário
 
 
 20/05/2025
@@ -390,24 +390,29 @@ Exercicios sobre tipod e Dado Dicionário
 
 1ª Aula
 [PLANEJADO]
-
+Revisão de conceitos de algoritimo e pseudocodigo, e das estruturas de repetição ENQUANTO e PARA.
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S12A1.pdf
+[QUIZ]https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17889
 
 
 2ª Aula
 [PLANEJADO]
-
+Revisão de conceitos de algoritimo e pseudocodigo, e das estruturas de repetição ENQUANTO e PARA.
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S12A2.pdf
+[REGISTRO]https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17892
 
 
 3ª Aula
 [PLANEJADO]
-
+Revisão de conceitos de algoritimo e pseudocodigo, e das estruturas de repetição ENQUANTO e PARA.
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S12A3.pdf
 
 #PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 6° Aula
 [PLANEJADO]
-
+Exercicios sobre tipo de Dado Dicionário
 
 7° Aula
 [PLANEJADO]
-
+Exercicios sobre tipo de Dado Dicionário

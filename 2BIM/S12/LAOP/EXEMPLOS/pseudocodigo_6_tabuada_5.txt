@@ -1,0 +1,5 @@
+1. tabuada <- 5
+2. PARA i DE 1 ATÉ 10 PASSO 1 FAÇA
+3.   resultado <- tabuada * i
+4.   Escrever tabuada, " x ", i, " = ", resultado
+5. FIM PARA

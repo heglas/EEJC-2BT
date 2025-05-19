@@ -1,0 +1,5 @@
+1. soma <- 0
+2. PARA i DE 2 ATÉ 20 PASSO 2 FAÇA
+3.   soma <- soma + i
+4. FIM PARA
+5. Escrever "Soma: ", soma
