@@ -373,15 +373,15 @@ https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S12A2.pdf
 [Seminário] Tópico alocado para semana de seminário
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S12A3.pdf
 
-
 #PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 5° Aula
 [PLANEJADO]
-
+Introdução ao tipo de dado Dicionário
 
 6° Aula
 [PLANEJADO]
+Exercicios sobre tipod e Dado Dicionário
 
 
 20/05/2025
