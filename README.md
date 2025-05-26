@@ -359,28 +359,28 @@ Pré-Aula [7:00]
 *Verificar disponibilidade de equipamentos e acesso as plataformas, alinhar com a direção atribuição PROATI na TERÇA-FEIRA
 
 2° Aula - [7:50]
-[PLANEJADO] Revisão de conceitos fundamentais do controle de versão 
+[EXECUTADO] Revisão de conceitos fundamentais do controle de versão 
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S12A1.pdf
 [Quiz] https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17503
 
 3° Aula
-[PLANEJADO] Procedimentos de instalação do GIT
+[EXECUTADO] Procedimentos de instalação do GIT
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S12A2.pdf
 [REGISTRO] https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17918
 
 4° Aula
-[PLANEJADO] Instalação pratica do sistema de controle de versão conforme discutido em aula.
+[EXECUTADO] Instalação pratica do sistema de controle de versão conforme discutido em aula.
 [Seminário] Tópico alocado para semana de seminário
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S12A3.pdf
 
 #PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 5° Aula
-[PLANEJADO]
+[EXECUTADO]
 Introdução ao tipo de dado Dicionário
 
 6° Aula
-[PLANEJADO]
+[EXECUTADO]
 Exercicios sobre tipo de Dado Dicionário
 
 
@@ -389,30 +389,96 @@ Exercicios sobre tipo de Dado Dicionário
 #LOGICA, ALGORITMO E E OPERAÇÃO DE PLANILHA ELETRONICA (LAOP)
 
 1ª Aula
-[PLANEJADO]
+[EXECUTADO]
 Revisão de conceitos de algoritimo e pseudocodigo, e das estruturas de repetição ENQUANTO e PARA.
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S12A1.pdf
 [QUIZ]https://educacaoprofissional.educacao.sp.gov.br/mod/page/view.php?id=17889
 
 
 2ª Aula
-[PLANEJADO]
+[EXECUTADO]
 Revisão de conceitos de algoritimo e pseudocodigo, e das estruturas de repetição ENQUANTO e PARA.
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S12A2.pdf
 [REGISTRO]https://educacaoprofissional.educacao.sp.gov.br/mod/assign/view.php?id=17892
 
 
 3ª Aula
-[PLANEJADO]
+[EXECUTADO]
 Revisão de conceitos de algoritimo e pseudocodigo, e das estruturas de repetição ENQUANTO e PARA.
 https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C3B2S12A3.pdf
 
 #PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 6° Aula
-[PLANEJADO]
+[EXECUTADO]
 Exercicios sobre tipo de Dado Dicionário
 
 7° Aula
-[PLANEJADO]
+[EXECUTADO]
 Exercicios sobre tipo de Dado Dicionário
+
+SEMANA 13
+
+26/05/2025
+
+#INTRODUÇÃO A CIENCIA DE DADOS, FERRAMENTAS E JARGOES DA AREA (ICD)
+
+Pré-Aula [7:00]
+*Verificar disponibilidade de equipamentos, bateria e acesso as plataformas
+
+2° Aula - [7:50]
+[EXECUTADO] Falamos sobre as tendências futuras e oportunidades na ciência de Dados e casos reais de uso.
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S13A1.pdf
+
+3° Aula
+[EXECUTADO] Conforme orientação do PAEET, os alunos foram orientados a concluirem todas as atividades de Quiz e Registros atrasados até o dia 27 de Maio de 2025, enquanto o prazo para as atividades da semana atual se encerrão as Quintas-feira.
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S13A2.pdf
+
+4° Aula
+[EXECUTADO] Revisão das atividades pendentes.
+[Seminário] Tópico alocado para semana de seminário (SEMANA SEI)
+https://aulas-p-epp-cdn.educacao.sp.gov.br/aulas/[DADOS]ANO1C1B2S13A3.pdf
+
+#PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
+
+5° Aula
+[EXECUTADO]
+Explicado o conceito de "compreenssão de lista" em python, o conceito se mostrou desafiador para a parcela da sala que ainda não amadureceu o desenvolvimento de codigos proprios e ainda procura copiar sintaxes sem entende-las.
+
+
+6° Aula
+[EXECUTADO]
+Revisão das atividades Pendentes.
+
+
+27/05/2025
+
+#LOGICA, ALGORITMO E E OPERAÇÃO DE PLANILHA ELETRONICA (LAOP)
+
+1ª Aula
+[PLANEJADO]
+Compreender o conceito, finalidade e características dos principais tipos de gráfico (com foco em
+gráfico de pizza).
+[QUIZ]
+
+
+2ª Aula
+[PLANEJADO]
+Compreender e aplicar o conceito de histograma em planilhas.
+[REGISTRO]
+
+
+3ª Aula
+[PLANEJADO]
+Revisar e implementar controle de versões das aplicações GIT, utilizando o GIT Hub e o Visual studio Code, iremos alimentar o repositorio local e o repositorio do GitHUB.
+
+#PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
+
+6° Aula
+[PLANEJADO]
+Executar listas e atividades pendentes.
+
+7° Aula
+[PLANEJADO]
+Executar listas e atividades pendentes.
+ATIVIDADE EXTRA: ACOMODAR E DEIXAR TODOS OS COMPUTADORES CARREGANDO.
