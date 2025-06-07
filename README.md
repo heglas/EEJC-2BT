@@ -456,29 +456,88 @@ Revisão das atividades Pendentes.
 #LOGICA, ALGORITMO E E OPERAÇÃO DE PLANILHA ELETRONICA (LAOP)
 
 1ª Aula
-[PLANEJADO]
+[EXECUTADO]
 Compreender o conceito, finalidade e características dos principais tipos de gráfico (com foco em
 gráfico de pizza).
 [QUIZ]
 
 
 2ª Aula
-[PLANEJADO]
+[EXECUTADO]
 Compreender e aplicar o conceito de histograma em planilhas.
 [REGISTRO]
 
 
 3ª Aula
-[PLANEJADO]
+[EXECUTADO]
 Revisar e implementar controle de versões das aplicações GIT, utilizando o GIT Hub e o Visual studio Code, iremos alimentar o repositorio local e o repositorio do GitHUB.
 
 #PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
 
 6° Aula
-[PLANEJADO]
+[EXECUTADO]
 Executar listas e atividades pendentes.
 
 7° Aula
-[PLANEJADO]
+[EXECUTADO]
 Executar listas e atividades pendentes.
 ATIVIDADE EXTRA: ACOMODAR E DEIXAR TODOS OS COMPUTADORES CARREGANDO.
+
+08/06/2025
+
+#INTRODUÇÃO A CIENCIA DE DADOS, FERRAMENTAS E JARGOES DA AREA (ICD)
+
+Pré-Aula [7:00]
+*Verificar finalização da sala.
+
+2° Aula - [7:50]
+[PLANEJADO] 
+Ferramentas de produtividade do MS Office e Google com Quiz
+
+3° Aula
+[PLANEJADO] 
+Ferramentas de produtividade do MS Office e Google com Registro
+
+4° Aula
+[PLANEJADO] 
+Finalização da configuração GIT
+
+#PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
+
+5° Aula
+[PLANEJADO]
+Introdução a biblioteca TKinter e revisão dos principais conceitos de programação em python com Quiz
+
+
+6° Aula
+[PLANEJADO]
+Introdução a biblioteca TKinter e revisão dos principais conceitos de programação em python com inicio da atividade de Registro
+
+
+27/05/2025
+
+#LOGICA, ALGORITMO E E OPERAÇÃO DE PLANILHA ELETRONICA (LAOP)
+
+1ª Aula
+[A PLANEJAR]
+
+
+
+2ª Aula
+[A PLANEJAR]
+
+
+
+3ª Aula
+[A PLANEJAR]
+
+
+#PROGRAMAÇÃO APLICADA E CIENCIA DE DADOS (PACD)
+
+6° Aula
+[A PLANEJAR]
+
+
+7° Aula
+[A PLANEJAR]
+
