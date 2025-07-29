@@ -4,7 +4,6 @@
 temperaturas = [-5, 0, 10, 16, 25, 32]
 
 #A
-'''
 for temp in temperaturas: 
     if temp <= 0: 
         print("PERIGO") 
@@ -14,7 +13,7 @@ for temp in temperaturas:
         print("AGRADÁVEL") 
     else: 
         print("CALOR") 
-'''
+
 #B
 '''
 for temp in temperaturas: 
