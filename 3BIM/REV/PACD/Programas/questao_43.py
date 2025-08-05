@@ -2,7 +2,7 @@
 # Classifica as temperaturas em categorias
 
 temperaturas = [-5, 0, 10, 16, 25, 32]
-
+'''
 #A
 for temp in temperaturas: 
     if temp <= 0: 
@@ -13,7 +13,7 @@ for temp in temperaturas:
         print("AGRADÁVEL") 
     else: 
         print("CALOR") 
-
+'''
 #B
 '''
 for temp in temperaturas: 
@@ -28,7 +28,7 @@ for temp in temperaturas:
 '''
 
 #C
-'''for temp in temperaturas:
+for temp in temperaturas:
     if temp <= 0:
         print("PERIGO")
     elif temp < 15:
@@ -37,7 +37,7 @@ for temp in temperaturas:
         print("AGRADÁVEL")
     else:
         print("CALOR")
-'''
+
 
 #D
 '''

@@ -8,9 +8,9 @@
 
 
 #B
-#def calcular_preco(preco, desconto):
-#    preco_final = preco - (preco * desconto / 100)
-#    return preco_final
+def calcular_preco(preco, desconto):
+    preco_final = preco - (preco * desconto / 100)
+    return preco_final
 
 #C
 #def calcular_preco(preco, desconto): 
@@ -28,5 +28,5 @@
 
 # Exemplo de uso
 preco_original = 100
-desconto_percentual = 10
+desconto_percentual = int(input("Digite o percentual de desconto: "))
 print("Preço com desconto:", calcular_preco(preco_original, desconto_percentual))
